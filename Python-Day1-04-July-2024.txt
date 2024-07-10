@@ -1,0 +1,77 @@
+04-07-2024
+
+--------------------   Python Day 01  -------------
+
+
+
+Developer Tools in AWS
+
+	AWS Lambda
+	AWS Elastic Beanstalk
+	Cloud9
+
+
+			Programming Languages
+Python
+Java
+php
+C
+C++
+Ruby
+Go
+
+
+IDE example
+
+AWS Cloud9
+VS Code
+PyCharm
+
+		Python Data Type
+Integer
+String
+Boolean
+Float
+
+		Composite Data types
+
+A composite data type in Python is a type that can hold multiple values of different types within a single structure, such as lists, tuples, dictionaries, and sets. These types allow for complex data organization and manipulation.
+
+Real Life example:
+
+
+	Ticket Booking App
+
+	Movie = Name, Year, Flag
+
+	Movie = "Name"	-> String
+	Movie = 1999	-> Int
+	Movie = True 	-> Bool
+
+
+
+Collection in Python
+
+Array : 
+
+Array are used to store multiple values in single variable.
+		m_array = ["hello", "Ford"]
+		print(m_array[1])		# Call value by index
+
+Index Value: 
+
+Index value refers to the position of an element within a sequence (such as a list, string, or tuple). Indexing allows you to access individual elements based on their position. Python uses zero-based indexing, which means the first element of a sequence has an index of 0, the second element has an index of 1, and so on.
+
+
+List: 
+
+A list in Python is an ordered collection of items that can hold a variety of data types. 
+Lists are mutable, meaning their elements can be changed, added, or removed. Lists are defined using square brackets [], and items within the list are separated by commas.
+ 
+	
+	Example:	mixed_list = [1, "hello", 3.14, True]
+			print(mixed_list)
+
+
+
+

@@ -1,0 +1,7 @@
+Hello Ec2-user
+
+This is my first program
+
+File Handler
+
+Open Function
